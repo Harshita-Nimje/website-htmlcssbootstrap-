@@ -1,0 +1,14 @@
+@media (max-width:1500px){
+    .heading-contact{
+        margin-bottom: 60px !important;
+        margin-top: 90px;
+    }
+
+}
+
+@media (max-width:1200px){
+    .form-origin{
+        width: 100%;
+        height: 100%;
+    }
+}
